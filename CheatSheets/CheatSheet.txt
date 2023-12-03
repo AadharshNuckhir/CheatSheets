@@ -1,0 +1,92 @@
+// JQuery
+https://www.geeksforgeeks.org/jquery-cheat-sheet-a-basic-guide-to-jquery/?ref=lbp
+
+// Git
+https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+
+// Angular JS
+https://www.geeksforgeeks.org/angularjs/?ref=dhm
+
+// Angular 8
+https://www.geeksforgeeks.org/angular-8-introduction/
+
+Angular 7
+https://www.geeksforgeeks.org/angular-7-introduction/
+
+// Angular
+https://www.geeksforgeeks.org/angular-cheat-sheet-a-basic-guide-to-angular/?ref=lbp
+
+// Javascript
+https://www.geeksforgeeks.org/javascript-cheat-sheet-a-basic-guide-to-javascript/?ref=lbp
+
+// CSS
+https://www.geeksforgeeks.org/css-cheat-sheet-a-basic-guide-to-css/?ref=lbp
+
+// HTML
+https://www.geeksforgeeks.org/html-cheat-sheet-a-basic-guide-to-html/?ref=shm
+
+
+// Docker
+https://gist.github.com/caseywdunn/34aac3d1993f9b3340496e9294239d3d
+https://www.geeksforgeeks.org/docker-cheat-sheet/
+
+
+// NUNIT
+https://www.automatetheplanet.com/nunit-cheat-sheet/
+https://dzone.com/articles/most-complete-nunit-unit-testing-framework-cheat-s-1
+
+
+// XUNIT
+https://gist.github.com/jonesandy/f622874e78d9d9f356896c4ac63c0ac3
+
+// LINQ
+https://www.codecademy.com/learn/learn-c-sharp/modules/learn-csharp-lists-and-linq/cheatsheet
+
+// RAZOR
+https://razorcheatsheet.com/
+
+// MVC
+https://www.benjaminjohnston.com.au/downloads/mvc_cheat_sheet.pdf
+
+// ASP.NET CORE FORM TAG HELPERS
+https://jonhilton.net/aspnet-core-forms-cheat-sheet/
+
+// DOTNET SECURITY
+https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html
+
+
+// REGULAR EXPRESSION
+https://regexlib.com/(X(1)A(z2mWACRgWc-ha1m3xGX6kOAvlEoNPuA1xzVdKgr3Bw8zuRJguCyObTVkNLMQHoGdgl9ozCfj5EMSRSgDtzPftfOroM6IxqcqXwtjXjUyeApUSKIrkY1EPYs8FPTsz29rwT1MLqh7azCz5vOzXbtVIgtAPHPPd8DooqSAhHyB7BLInwCL0qhPBzSOZos431Ha0))/CheatSheet.aspx?AspxAutoDetectCookieSupport=1
+
+// DATE FORMATTING
+https://regexlib.com/(X(1)A(z2mWACRgWc-ha1m3xGX6kOAvlEoNPuA1xzVdKgr3Bw8zuRJguCyObTVkNLMQHoGdgl9ozCfj5EMSRSgDtzPftfOroM6IxqcqXwtjXjUyeApUSKIrkY1EPYs8FPTsz29rwT1MLqh7azCz5vOzXbtVIgtAPHPPd8DooqSAhHyB7BLInwCL0qhPBzSOZos431Ha0))/CheatSheet.aspx?AspxAutoDetectCookieSupport=1
+
+// DOTNET CLI
+https://www.parsstudent.com/wp-content/uploads/2018/09/dot-net-cli-cheat-sheet.jpg
+
+// DOTNET4_EXTENSIONS
+https://overapi.com/static/cs/NETFX4-Poster.pdf
+
+// DOTNET CORE BASIC SECURITY SETTINGS
+https://blog.securityps.com/2016/08/aspnet-core-basic-security-settings.html
+
+// 5 MVC Cheatsheets
+https://cheatography.com/tag/mvc/
+https://github.com/warisali2/asp.net-cheatsheet
+
+
+// MVC Projects
+https://www.codecademy.com/learn/paths/build-web-apps-with-asp-net
+
+// ASP.NET CORE SON API CHEAT SHEET
+https://codingblog.carterdan.net/2019/10/08/aspnetcore-json-api-cheat-sheet/
+https://cheatography.com/tag/dotnet/
+https://pdfcoffee.com/c-web-api-cheat-sheet-pdf-free.html
+
+// JWT IN ASP.NET CORE
+https://www.c-sharpcorner.com/article/jwt-json-web-token-authentication-in-asp-net-core/
+https://www.infoworld.com/article/3669188/how-to-implement-jwt-authentication-in-aspnet-core.html
+
+
+// GIT WITH VISUAL STUDIO CODE
+https://code.visualstudio.com/docs/sourcecontrol/overview
