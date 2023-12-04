@@ -1,3 +1,10 @@
+Compatibility
+https://umarfarooquekhan.medium.com/angular-typescript-and-node-version-compatibility-86b84eb518a4
+https://angular.io/guide/versions
+
+Best practice
+https://angular.io/tutorial/tour-of-heroes/toh-pt5
+
 // Steps to Install & Create a new Angular Project
 
 1). Installation of the node.js & npm, we need to install the Angular CLI
@@ -30,6 +37,10 @@
 	npm install --legacy-peer-deps  // Last resort
 	
 5). If app.module.ts file is missing, run ng generate module app
+
+6). Build for production
+    ng build --configuration=production
+
 	
 
 // Creating a new module
