@@ -1,0 +1,67 @@
+// Steps to Install & Create a new Angular Project
+
+1). Installation of the node.js & npm, we need to install the Angular CLI
+    node -v
+	npm -v
+	
+2). Next step is to globally install the Angular Command Line Interface (CLI) using npm
+    npm install -g @angular/cli           // global latest version
+	npm install @angular/cli@12           // local version 12
+	
+	Angular CLI globally to the latest version to benefit from new features and improvements. 
+	npm update -g @angular/cli  // update Angular CLI globally
+	
+3). Once the Angular CLI is installed, create a new project
+    Simple command ng new my-new-angular-app initiates the scaffolding of a new Angular project
+	ng new my-new-angular-app
+	ng new my-app --no-standalone --routing --ssr=false
+	
+4). Once you're in the project directory, use the code . command to open the current directory in Visual Studio Code
+    code .
+	
+	ng build
+	ng serve
+	
+	ng test  // to run unit test
+	
+	npm cache clean --force
+	npm install --force  // to reinstall all dependencies in angular project
+	
+	npm install --legacy-peer-deps  // Last resort
+	
+5). If app.module.ts file is missing, run ng generate module app
+	
+
+// Creating a new module
+ng generate module developer --routing=true
+
+ng generate module project --routing=true
+
+
+	
+// Depcheck is a tool for analyzing the dependencies in a project to see: how each dependency is used, which dependencies are useless, and which dependencies are missing from package.json.
+npm install -g depcheck
+npm install -g depcheck typescript
+
+
+// Other tools or packages are commonly installed globally or used alongside Angular projects. Some of these tools include
+1). npm install -g typescript
+2). npm install -g cypress      // Testing frameworks used for end-to-end (E2E) testing in Angular application
+3). npm install -g protractor   // Testing frameworks used for end-to-end (E2E) testing in Angular application
+4). npm install -g prettier         // Code formatter for JavaScript, TypeScript, CSS, and other languages
+5). npm install eslint --save-dev   // ESLint for JavaScript/TypeScript linting
+    npx eslint --init
+
+
+
+// Project-specific Dependencies
+1). npm install @angular/core @angular/common @angular/router --save          // @angular/core, @angular/common, @angular/router
+2). npm install rxjs --save                                                   // RxJS
+3). npm install bootstrap --save                                              // Bootstrap
+4). ng add @angular/material                                                  // Angular Material
+5). npm install karma jasmine --save-dev
+6). ng add @nguniversal/express-engine
+7). npm install @ngrx/store --save
+
+
+For Aligning Code => extension better align
