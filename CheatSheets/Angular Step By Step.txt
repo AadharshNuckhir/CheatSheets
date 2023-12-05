@@ -2,6 +2,11 @@ Compatibility
 https://umarfarooquekhan.medium.com/angular-typescript-and-node-version-compatibility-86b84eb518a4
 https://angular.io/guide/versions
 
+Observables VS Promises
+https://www.infragistics.com/community/blogs/b/infragistics/posts/angular-observable-vs-angular-promise
+https://www.youtube.com/watch?v=P-kl0VoHj_k
+https://www.c-sharpcorner.com/article/observable-and-promise-in-angular/
+
 Best practice
 https://angular.io/tutorial/tour-of-heroes/toh-pt5
 

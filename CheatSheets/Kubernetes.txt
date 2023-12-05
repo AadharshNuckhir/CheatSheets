@@ -1,0 +1,16 @@
+// Build web api from scract, dockerize and deploy to Kubernetes
+https://medium.com/@josesousa8/building-an-api-with-net-core-docker-and-kubernetes-aa3e02add0c
+https://www.c-sharpcorner.com/article/kubernetes-for-net-developers-a-comprehensive-guide-with-examples/
+https://code.visualstudio.com/docs/containers/quickstart-aspnet-core
+https://www.twilio.com/blog/containerize-your-aspdotnet-core-application-and-sql-server-with-docker
+https://medium.com/@wcproxd/asp-net-core-and-docker-a-step-by-step-guide-a253062b1a9a
+https://docs.docker.com/language/dotnet/deploy/
+https://learn.microsoft.com/en-us/dotnet/core/docker/build-container?tabs=windows&pivots=dotnet-8-0
+https://www.youtube.com/watch?v=7bA0gTroJjw
+
+
+
+// Docker
+https://www.youtube.com/watch?v=3s-RfwvijpY
+
+https://www.youtube.com/watch?v=BV_f2XnqlRE       // Not needed in .NET 7

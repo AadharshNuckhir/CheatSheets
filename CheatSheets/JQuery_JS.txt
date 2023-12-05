@@ -1,0 +1,9 @@
+// JS
+https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
+https://www.w3schools.com/js/
+
+
+// JQuery
+https://www.youtube.com/watch?v=dXutAlml_xE
+https://www.c-sharpcorner.com/UploadFile/2f59d0/jquery-with-Asp-Net/
+https://www.w3schools.com/jquery/
