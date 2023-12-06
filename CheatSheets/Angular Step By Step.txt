@@ -1,3 +1,6 @@
+// How to use the CLI
+https://github.com/angular/angular-cli
+
 Compatibility
 https://umarfarooquekhan.medium.com/angular-typescript-and-node-version-compatibility-86b84eb518a4
 https://angular.io/guide/versions
@@ -27,6 +30,7 @@ https://angular.io/tutorial/tour-of-heroes/toh-pt5
     Simple command ng new my-new-angular-app initiates the scaffolding of a new Angular project
 	ng new my-new-angular-app
 	ng new my-app --no-standalone --routing --ssr=false
+	ng new my-app --no-strict --no-standalone --routing --ssr=false
 	
 4). Once you're in the project directory, use the code . command to open the current directory in Visual Studio Code
     code .
@@ -62,8 +66,8 @@ npm install -g depcheck typescript
 
 // Other tools or packages are commonly installed globally or used alongside Angular projects. Some of these tools include
 1). npm install -g typescript
-2). npm install -g cypress      // Testing frameworks used for end-to-end (E2E) testing in Angular application
-3). npm install -g protractor   // Testing frameworks used for end-to-end (E2E) testing in Angular application
+2). npm install -g cypress          // Testing frameworks used for end-to-end (E2E) testing in Angular application
+3). npm install -g protractor       // Testing frameworks used for end-to-end (E2E) testing in Angular application
 4). npm install -g prettier         // Code formatter for JavaScript, TypeScript, CSS, and other languages
 5). npm install eslint --save-dev   // ESLint for JavaScript/TypeScript linting
     npx eslint --init
@@ -74,10 +78,51 @@ npm install -g depcheck typescript
 1). npm install @angular/core @angular/common @angular/router --save          // @angular/core, @angular/common, @angular/router
 2). npm install rxjs --save                                                   // RxJS
 3). npm install bootstrap --save                                              // Bootstrap
+    npm install --save bootstrap@3   (install locally in project folder)
+	This will install it in the node_module folder
+	To make angular aware of it, we need to modify the angular.json file
+	"styles": [
+               "node_modules/bootstrap/dist/css/bootstrap.min.css",
+               "src/styles.css"
+              ],
 4). ng add @angular/material                                                  // Angular Material
 5). npm install karma jasmine --save-dev
 6). ng add @nguniversal/express-engine
 7). npm install @ngrx/store --save
 
+8). npm install --save-dev @angular-devkit/build-angular
+
 
 For Aligning Code => extension better align
+
+// How do I generate HTML code automatically in VS code ?
+shift + 1 and enter         -> to auto-populate HTML Doctype in HTML
+
+
+FormsModule : (Typescript feature) Allows use to use forms features like ngModel
+
+One important note: All the course code will only work if you are NOT using "strict mode" see the "First App" lecture in this module. 
+Strict mode forces you to write more verbose code in some places (especially when it comes to class properties). If you enabled it by accident, you can also disable it by setting strict: false in your tsconfig.json file.
+
+Due to dependency version mismatches, running the attachments might fail though - in that case, you can try the following:
+
+1) Create a new project via ng new my-project --strict false (the --strict false part is important!)
+
+2) Copy the content of the ZIP attachment src/app folder into the newly created project src/app folder.
+
+3) Run your project (my-project) via ng serve
+
+If you try to directly run my ZIP attachments, you must run npm install first.
+
+If you're getting errors when running npm install, you can often solve them by running npm install --legacy-peer-deps instead of npm install.
+
+https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/6709112#questions/8079942
+
+
+
+// For debugging
+npm install webpack-cli
+
+In package.json, we add script "dev":
+
+"dev": "webpack - config webpack.config.js"
