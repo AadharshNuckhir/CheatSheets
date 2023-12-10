@@ -1,0 +1,5 @@
+https://medium.com/bina-nusantara-it-division/implementing-jwt-in-asp-net-core-6-0-web-api-c-3a396fa8cfeb
+
+https://topuzas.medium.com/building-a-custom-asp-net-core-6-application-with-jwt-middleware-logging-keyvault-ci-cd-e3c41e6682ac
+
+https://medium.com/@niloy.oct/implement-jwt-token-in-asp-net-mvc-project-1b253658241e
